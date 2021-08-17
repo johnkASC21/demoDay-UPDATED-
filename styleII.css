@@ -1,0 +1,27 @@
+body{
+    background-color: grey;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.logo {
+    float: left;
+}
+
+    
+
+nav {
+    background-color: rgb(233,255,185);
+     display: flex;
+     font-size: 36px;
+     
+   border-width: 5px;
+border:lightcoral solid;
+}
+h2 {
+    color: rgb(34, 75, 162);
+}

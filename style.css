@@ -1,0 +1,92 @@
+div {
+   font-family: Helvetica;
+   background-color:rgb(233,255,185);
+   font-size: 32px;
+   padding: 5px;
+ }
+  
+ #big_div {
+   display: flex;
+   justify-content: space-around;
+   color:black;
+ }
+  
+ img {
+   width: 60px;
+ }
+  
+ .items:hover {
+   background-color: gray;
+   opacity: 0.5;
+ }
+
+ .mid_div{
+   background-color: gray;
+   display:flex;
+ }
+
+ .p1{
+   color:white;
+ }
+
+ #emails {
+   background-color:grey;
+   justify-content:space-around;
+
+ }
+
+
+ #photos{
+   margin: 50px;
+   display: flex;
+   background-color:gray;
+   flex-direction: column;
+ }
+
+ #photosII{
+   margin:50px;
+   display:flex;
+   background-color:gray;
+   justify-content:flex-start;
+   flex-direction: column;
+ }
+
+ #photosIII{
+   margin:50px;
+   display:flex;
+   background-color:gray;
+   justify-content:flex-start;
+   flex-direction: column;
+    
+ }
+
+#header{
+   background-color:rgb(54, 167, 54);
+   border-style:solid;
+   border-color:white;
+   font-family: sans-serif;
+}
+
+
+ .one{
+   width:300px;
+ }
+ 
+#description{
+   background-color:lightgray;
+   color:black;
+   border-style:double;
+   border-color:green;
+}
+
+.final{
+   background-color:lightgreen;
+}
+
+h4{
+   font-family: monospace;
+   font-size: 20px;
+   
+}
+ 
+ 
